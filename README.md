@@ -8,7 +8,7 @@ A lightweight AI Agent built with Python and Groq LLM that can dynamically use e
 * Groq LLM (`openai/gpt-oss-120b`)
 * Tavily API
 * Python AST
-* dotenv
+* dotenv 
 
 ### Features
 
