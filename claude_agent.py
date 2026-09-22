@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from groq import Groq
 from tavily import TavilyClient
 
-load_dotenv()
+load_dotenv() 
 
 groq = Groq(api_key=os.getenv("GROQ_API_KEY"))
 tavily = TavilyClient(api_key=os.getenv("TAVILY_API_KEY"))
