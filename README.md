@@ -10,7 +10,8 @@ A lightweight AI Agent built with Python and Groq LLM that can dynamically use e
 * Python AST 
 * dotenv 
 
-### Features
+### Features 
+
 
 * LLM-based tool selection using function calling
 * Real-time web search using Tavily
