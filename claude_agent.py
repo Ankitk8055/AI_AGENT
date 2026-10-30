@@ -2,7 +2,7 @@ import ast
 import json
 import operator as op
 import os
-  
+
 from dotenv import load_dotenv
 from groq import Groq
 from tavily import TavilyClient
